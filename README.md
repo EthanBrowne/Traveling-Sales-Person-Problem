@@ -1,0 +1,1 @@
+This is s a personal project that I decided to make that goes over the Traveling Sales person problem. It finds the shortest distance between a list of points. This problem is very important in the world of computer science because it has O(n!) runtime which makes it part of the NP-Hard set of problems.
